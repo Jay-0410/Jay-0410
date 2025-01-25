@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay
 - 🌱 I’m currently learning software development
-- 💞️ Looking for Internships
+
 
 <!---
 Jay-0410/Jay-0410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
